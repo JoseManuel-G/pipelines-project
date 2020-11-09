@@ -1,0 +1,101 @@
+,id,first_name,last_name,full_name,country,race_ranking,movement,race_points
+0,89304,Novak,Djokovic,Novak Djokovic,Serbia,1,,11630
+2,86928,Rafael,Nadal,Rafael Nadal,Spain,2,,9450
+3,262500,Dominic,Thiem,Dominic Thiem,Austria,3,,8325
+4,981036,Daniil,Medvedev,Daniil Medvedev,Russia,4,,6970
+5,86064,Roger,Federer,Roger Federer,Switzerland,4,,6230
+6,342990,Alexander,Zverev,Alexander Zverev,Germany,6,,5125
+7,734208,Stefanos,Tsitsipas,Stefanos Tsitsipas,Greece,7,,4625
+8,640542,Andrey,Rublev,Andrey Rublev,Russia,8,,3919
+9,291606,Diego,Schwartzman,Diego Schwartzman,Argentina,9,,3455
+10,676710,Matteo,Berrettini,Matteo Berrettini,Italy,10,,2875
+11,89076,Gael,Monfils,Gael Monfils,France,11,,2860
+12,707508,Denis,Shapovalov,Denis Shapovalov,Canada,12,,2830
+13,155040,David,Goffin,David Goffin,Belgium,14,,2555
+14,92616,Fabio,Fognini,Fabio Fognini,Italy,16,,2400
+17,108678,Milos,Raonic,Milos Raonic,Canada,17,,2265
+18,540492,Karen,Khachanov,Karen Khachanov,Russia,19,,2245
+20,87300,Stan,Wawrinka,Stan Wawrinka,Switzerland,20,,2230
+19,141498,Grigor,Dimitrov,Grigor Dimitrov,Bulgaria,20,+2,2215
+21,387432,Cristian,Garin,Cristian Garin,Chile,22,,2135
+22,96732,John,Isner,John Isner,USA,23,,1850
+24,387492,Borna,Coric,Borna Coric,Croatia,24,,1820
+25,235416,Dusan,Lajovic,Dusan Lajovic,Serbia,26,,1785
+28,715500,Casper,Ruud,Casper Ruud,Norway,27,,1739
+27,133320,Benoit,Paire,Benoit Paire,France,27,-1,1738
+29,816264,Taylor,Fritz,Taylor Fritz,USA,29,,1670
+31,137832,Filip,Krajinovic,Filip Krajinovic,Serbia,30,,1628
+32,953388,Hubert,Hurkacz,Hubert Hurkacz,Poland,31,-2,1493
+33,1112340,Ugo,Humbert,Ugo Humbert,France,32,-2,1466
+34,98262,Daniel,Evans,Daniel Evans,United Kingdom,33,+2,1454
+35,157236,Nikoloz,Basilashvili,Nikoloz Basilashvili,Georgia,36,-3,1395
+37,94410,Kei,Nishikori,Kei Nishikori,Japan,36,-1,1345
+36,782412,Reilly,Opelka,Reilly Opelka,USA,36,+3,1312
+38,146520,Guido,Pella,Guido Pella,Argentina,37,,1310
+39,95376,Adrian,Mannarino,Adrian Mannarino,France,39,+3,1296
+41,1191564,Miomir,Kecmanovic,Miomir Kecmanovic,Serbia,40,-2,1283
+43,92334,Marin,Cilic,Marin Cilic,Croatia,41,-2,1280
+45,629094,Lorenzo,Sonego,Lorenzo Sonego,Italy,42,+10,1253
+44,374952,Nick,Kyrgios,Nick Kyrgios,Australia,42,-1,1170
+46,198702,John,Millman,John Millman,Australia,45,+7,1166
+47,1239432,Jannik,Sinner,Jannik Sinner,Italy,46,+3,1136
+48,392304,Kyle,Edmund,Kyle Edmund,United Kingdom,47,,1085
+49,220080,Tennys,Sandgren,Tennys Sandgren,USA,48,,1078
+51,91818,Sam,Querrey,Sam Querrey,USA,49,,1065
+52,286632,Marton,Fucsovics,Marton Fucsovics,Hungary,50,,1047
+56,980892,Alexander,Bublik,Alexander Bublik,Kazakhstan,52,+3,1045
+57,86496,Richard,Gasquet,Richard Gasquet,France,53,,1030
+54,92604,Pablo,Andujar,Pablo Andujar,Spain,51,-3,1024
+55,355698,Yoshihito,Nishioka,Yoshihito Nishioka,Japan,52,-3,1017
+59,88428,Gilles,Simon,Gilles Simon,France,57,,1005
+61,526152,Jordan,Thompson,Jordan Thompson,Australia,59,,984
+58,228144,Aljaz,Bedene,Aljaz Bedene,Slovenia,56,+5,965
+62,86802,Feliciano,Lopez,Feliciano Lopez,Spain,60,,953
+60,831288,Tommy,Paul,Tommy Paul,USA,58,,949
+64,86940,Fernando,Verdasco,Fernando Verdasco,Spain,61,,945
+63,94746,Pablo,Cuevas,Pablo Cuevas,Uruguay,60,-3,907
+69,137748,Ricardas,Berankis,Ricardas Berankis,Lithuania,65,,889
+65,346230,Lucas,Pouille,Lucas Pouille,France,62,-4,880
+66,230970,Steve,Johnson,Steve Johnson,USA,64,-4,870
+68,94986,Jeremy,Chardy,Jeremy Chardy,France,65,-3,860
+70,606618,Francis,Tiafoe,Francis Tiafoe,USA,67,+3,845
+71,251154,Jiri,Vesely,Jiri Vesely,Czech Republic,68,+1,840
+73,1050096,Corentin,Moutet,Corentin Moutet,France,71,-2,818
+74,575622,Cameron,Norrie,Cameron Norrie,United Kingdom,72,-2,807
+75,583398,Laslo,Djere,Laslo Djere,Serbia,73,-3,797
+77,217812,Stefano,Travaglia,Stefano Travaglia,Italy,74,+4,794
+81,100686,Vasek,Pospisil,Vasek Pospisil,Canada,79,,787
+78,226722,Joao,Sousa,Joao Sousa,Portugal,77,-1,776
+80,267294,Radu,Albot,Radu Albot,Moldova,79,-3,772
+82,912300,Mikael,Ymer,Mikael Ymer,Sweden,80,-3,763
+83,211014,Federico,Delbonis,Federico Delbonis,Argentina,81,+3,758
+84,585894,Soonwoo,Kwon,Soonwoo Kwon,South Korea,82,-4,752
+85,295710,Egor,Gerasimov,Egor Gerasimov,Belarus,83,-2,750
+86,285630,Thiago,Monteiro,Thiago Monteiro,Brazil,84,+9,749
+87,355872,Salvatore,Caruso,Salvatore Caruso,Italy,85,+8,742
+88,87756,Philipp,Kohlschreiber,Philipp Kohlschreiber,Germany,86,-3,729
+89,145866,Attila,Balazs,Attila Balazs,Hungary,87,+3,722
+90,100110,Mikhail,Kukushkin,Mikhail Kukushkin,Kazakhstan,88,,716
+91,417012,Gianluca,Mager,Gianluca Mager,Italy,89,-2,713
+92,946860,Lloyd,Harris,Lloyd Harris,South Africa,90,-2,701
+94,238278,James,Duckworth,James Duckworth,Australia,91,-2,699
+95,355836,Dennis,Novak,Dennis Novak,Austria,92,-2,698
+96,1004232,Emil,Ruusuvuori,Emil Ruusuvuori,Finland,93,-5,686
+97,278352,Yasutaka,Uchiyama,Yasutaka Uchiyama,Japan,95,,685
+98,254286,Marcos,Giron,Marcos Giron,USA,96,+6,684
+99,287862,Yannick,Hanfmann,Yannick Hanfmann,Germany,97,-4,682
+1,100332,Agut,Bautista,Agut Bautista,Spain,2,,305
+15,1207446,Minaur,De,Minaur De,Australia,17,,140
+23,349338,Christopher,Oconnell,Christopher Oconnell,Australia,24,,101
+40,278358,Jan,Struff,Jan Struff,Germany,39,-3,70
+50,307866,Subervi,Cid,Subervi Cid,Dominican Republic,48,-2,56
+16,99054,Yuichi,Sugita,Yuichi Sugita,Japan,17,,48
+67,267330,Pierre,Herbert,Pierre Herbert,France,64,-3,45
+72,614478,Rijthoven,Van,Rijthoven Van,Netherlands,70,-1,44
+76,795360,Zdenek,Kolar,Zdenek Kolar,Czech Republic,73,-1,43
+93,967584,Wild,Seyboth,Wild Seyboth,Brazil,91,-10,29
+79,252918,Ji,Nam,Ji Nam,South Korea,77,+11,15
+53,283794,Juan,Londero,Juan Londero,Argentina,50,,0
+42,100944,Vinolas,Ramos,Vinolas Ramos,Spain,41,,0
+30,90552,Jo,Tsonga,Jo Tsonga,France,29,,0
+26,244812,Busta,Carreno,Busta Carreno,Spain,27,,0
